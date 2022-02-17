@@ -1,0 +1,163 @@
+*{
+    margin:0%;
+    padding:0%;
+    background-color: #f1f4fa;
+} 
+
+body{
+    
+    
+}
+.textbook{
+     
+    margin-top:200px;
+    margin-left:520px;
+    margin-top:200px;
+}
+
+h1{
+    font-size:55px;  
+    color:#1877f2;
+    font-family:'Segoe UI',sans-serif;
+}
+
+h2{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width:500px;
+}
+
+.container{
+    width:390px;
+    height: 355px;
+    margin-top:-194px;
+    margin-right:360px;  
+    float:right;  
+    border-radius: 12px;
+    background-color: white;
+    padding:12px;
+    text-align: center;
+}
+
+.form{
+    float:right;
+    background-color:white;   
+    margin-top:-12px;
+    padding:20px;
+}
+
+.form input{
+    margin-top:10px;
+    margin-right:-10px;
+    margin-left:-10px;
+    border-radius:8px;
+    padding: 17px;
+    width:332px;
+}
+
+#plus{    
+    width:30px;
+    height:30px;
+    background-color:white;
+}
+
+#flef{
+    margin-top: 15px;
+    background-color:#1877f2;
+    padding: 16px;
+    width: 100%;
+    border-radius: 8px;
+    color:white;
+    font-family:sans-serif;
+    font-size: 18px;
+}
+
+#flef2{
+    margin-top: 15px;
+    background-color:#1b9c24;
+    padding: 16px;
+    width: 100%;
+    border-radius: 8px;
+    color:white;
+    font-family:sans-serif;
+    font-size: 18px;
+}
+
+p{
+    background-color:white;
+    font-size:16px;
+    color:#1877f2;
+    font-family: inherit;
+    margin-top:10px;
+}
+
+p a{
+    color:#1877f2;
+    background-color:white;
+}
+
+
+.btn {
+    padding: 7px;
+   font-size: 16px;  
+   background-color: white;
+   margin-left:65px;
+}
+
+.btn #flef2{
+    width:250px;
+    height:60px;
+    margin-left: -50px;
+    background-color:#1b9c24;
+
+}
+
+#cre_h{
+    margin-top: 50px;
+    color: black;   
+}
+
+footer ul li
+{
+    margin-left: 5px;
+    background-color:white;
+}
+
+footer ul li a
+{
+    color: grey;
+    background-color:white;
+}
+
+footer ul,#meta
+{
+    font-family: sans-serif;
+    font-size: 12px;
+    color: grey;
+    margin: 35px 270px 15px 270px;
+    background-color:white;
+}
+
+.footer
+{
+    position: absolute;
+    bottom: -180px;
+    width: 100%;
+    height: 400px;
+    background: white;
+}
+
+.line-2
+{
+    border-top: 1px solid #222;
+    opacity: 0.3;
+    width: 62%;
+    margin-left: 275px;
+    
+}
+
+footer{
+    background-color:white;
+}
