@@ -11,7 +11,7 @@ body{
 .textbook{
      
     margin-top:200px;
-    margin-left:520px;
+    margin-left:1220px;
     margin-top:200px;
 }
 
@@ -33,7 +33,7 @@ h2{
     width:390px;
     height: 355px;
     margin-top:-194px;
-    margin-right:360px;  
+    margin-right:1360px;  
     float:right;  
     border-radius: 12px;
     background-color: white;
@@ -52,7 +52,7 @@ h2{
     margin-top:10px;
     margin-right:-10px;
     margin-left:-10px;
-    border-radius:8px;
+    border-radius:80px;
     padding: 17px;
     width:332px;
 }
